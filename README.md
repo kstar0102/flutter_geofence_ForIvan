@@ -113,18 +113,4 @@ Also, stop GeofenceEvent stream subscription listener which is `geofenceEventStr
 geofenceEventStream?.cancel();
 ```
 
-## Issues
 
-Please file any issues, bugs or feature requests as an issue on our [GitHub](https://github.com/SarfarazAhmed008/geofence/issues) page.
-
-## Dependencies
-
-This plugin is depended on geolocator plugin of baseflow.com
-
-## Want to contribute
-
-If you would like to contribute to the plugin (e.g. by improving the documentation, solving a bug or adding a cool new feature), feel free to send your [pull request](https://github.com/SarfarazAhmed008/geofence/pulls).
-
-## Author
-
-This geofence_flutter plugin for Flutter is developed by [Sarfaraz](https://sarfaraz.me/).
